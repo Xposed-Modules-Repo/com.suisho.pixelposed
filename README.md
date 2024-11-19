@@ -1,3 +1,5 @@
+源码:https://github.com/NativeStar/PixelPosed
+
 无限续命安卓Pixel客户端搜索结果热度排序7天试用的Xposed模块
 
 在Pixel 6.130.0测试正常
